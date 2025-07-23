@@ -55,10 +55,14 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:diheliegunathilaka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/diheliegunathilaka/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <!-- Add more links if needed -->
+  <a href="mailto:diheliegunathilaka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/diheliegunathilaka/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
