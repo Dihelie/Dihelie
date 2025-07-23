@@ -12,8 +12,7 @@
 - 🎓 I'm a **BSc (Hons) Software Engineering** graduate from the **University of Plymouth (UK)** 🇬🇧, through NSBM Green University 🇱🇰  
 - 💡 I'm driven by **curiosity**, **creativity**, and a passion for building systems that solve real-world problems  
 - 🤖 Currently deepening my knowledge in **Artificial Intelligence & Science** and working on projects that challenge my boundaries  
-- 🌱 Exploring opportunities for **Master’s**   
-- 🧠 An **introvert + independent learner** who believes that quiet focus can build great things  
+- 🌱 Exploring opportunities for **Master’s**    
 - 🎯 Long-term goal: change
 
 ---
