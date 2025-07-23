@@ -10,11 +10,11 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm a **BSc (Hons) Software Engineering** graduate from the **University of Plymouth (UK)** 🇬🇧, through NSBM Green University 🇱🇰  
-- 💡 I'm driven by **curiosity**, **creativity**, and a love for building systems that solve real-world problems  
-- 🤖 Currently deepening my knowledge in **Artificial Intelligence** and working on projects that challenge my boundaries  
-- 🌱 Exploring opportunities for a **Master’s in AI or Software Engineering** abroad  
+- 💡 I'm driven by **curiosity**, **creativity**, and a passion for building systems that solve real-world problems  
+- 🤖 Currently deepening my knowledge in **Artificial Intelligence & Science** and working on projects that challenge my boundaries  
+- 🌱 Exploring opportunities for **Master’s**   
 - 🧠 An **introvert + independent learner** who believes that quiet focus can build great things  
-- 🎯 Long-term goal: To create technologies with a **positive social impact**
+- 🎯 Long-term goal: change
 
 ---
 
@@ -32,7 +32,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
-
+<!--
+---
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -48,14 +49,14 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dihelie&theme=darkhub&margin-w=10&margin-h=10" alt="trophies" />
 </p>
-
+-->
 ---
 
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:dihelie@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:diheliegunathilaka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/diheliegunathilaka/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
   <!-- Add more links if needed -->
 </p>
 
@@ -64,9 +65,12 @@
 <details>
   <summary>📁 Featured Projects</summary>
 
-- 🚜 **RapidB's** – An agricultural platform connecting farmers, buyers & transporters  
-- 🧠 AI + Biology Concepts (Upcoming) – Exploring cross-domain innovation  
-- 🛍️ E-commerce App for Computer Accessories (In Progress)
+- 🚜 **RapidB's** – An agricultural platform connecting farmers, buyers & transporters
+- 🩺 **CareNow** – A web application for a doctor-patient portal for appointment handling
+- 🧠 **NN User Authentication Model** – A basic NN for user authentication using biometric data
+- 📚 **EduLink** – A mobile application connecting students and teachers
+- 🛍️ E-commerce Web Application
+- 🍀 AI + Biology Concepts (Upcoming) – Exploring cross-domain innovation  
 
 </details>
 
